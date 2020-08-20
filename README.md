@@ -1,0 +1,3 @@
+# mongosetup
+
+dont read this
